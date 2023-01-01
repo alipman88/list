@@ -18,6 +18,7 @@
 - veg. protein (bacon, sausage, seitan, etc.)
 
 ## PANTRY VEG:
+- fruit (seasonal)
 - onion
 - garlic
 

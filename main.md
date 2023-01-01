@@ -27,6 +27,7 @@ x pickles
 
 ## PANTRY VEG:
 --------------
+- fruit (seasonal)
 x lemon
 x lime
 - onion
