@@ -10,6 +10,7 @@
 
 ## FRIDGE:
 ----------
+x cider vinegar
 x eggs
 - kimchi
 x miso paste
@@ -25,6 +26,8 @@ x pickles
 
 ## PANTRY VEG:
 --------------
+x lemon
+x lime
 - onion
 - garlic
 x potatoes
@@ -55,3 +58,20 @@ x soy sauce
 x coffee
 - tea
 - herbal tea
+
+## PHARMACY:
+---------
+x cbd
+x claritin
+- exedrin
+- ibuprofin
+
+## HOUSEHOLD:
+-------------
+x bar soap
+x bleach
+x laundry detergent
+x liquid soap
+x paper towels
+x toilet paper
+x vinegar

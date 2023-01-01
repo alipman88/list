@@ -30,3 +30,9 @@
 ## BEVERAGE:
 - tea
 - herbal tea
+
+## PHARMACY:
+- exedrin
+- ibuprofin
+
+## HOUSEHOLD:
