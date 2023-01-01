@@ -40,6 +40,7 @@ x dashi powder
 x hot sauce
 x legumes
 x maggi seasoning
+- nuts (almonds, cashews, pistachios, etc.)
 x olive oil
 - pasta
 - peanut butter

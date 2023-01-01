@@ -22,6 +22,7 @@
 - garlic
 
 ## PANTRY:
+- nuts (almonds, cashews, pistachios, etc.)
 - pasta
 - peanut butter
 
