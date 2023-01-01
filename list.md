@@ -13,6 +13,7 @@
 
 ## FREEZER:
 - edamame
+- ginger
 - peas
 - veg. protein (bacon, sausage, seitan, etc.)
 
