@@ -66,6 +66,12 @@ x claritin
 - exedrin
 - ibuprofin
 
+## HARDWARE
+-----------
+x finch feed
+x cardinal feed
+x suet cakes
+
 ## HOUSEHOLD:
 -------------
 x bar soap

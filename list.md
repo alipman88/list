@@ -35,4 +35,6 @@
 - exedrin
 - ibuprofin
 
+## HARDWARE
+
 ## HOUSEHOLD:
