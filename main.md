@@ -42,9 +42,11 @@ x maggi seasoning
 x olive oil
 - pasta
 - peanut butter
+x pepper
 x pomodoro sauce
 x rice
 x sardines
+x sea salt
 x sesame oil
 x sesame seeds
 x soy sauce
