@@ -87,7 +87,7 @@ x claritin
 x exedrin
 x ibuprofin
 
-## HARDWARE
+## HARDWARE:
 -----------
 x bird seed, cardinal (sunflower/safflower)
 x bird seed, finch (nyjer)
@@ -102,5 +102,6 @@ x paper, kitchen towels
 x paper, toilet
 x soap, bar
 x soap, liquid
+- sponges
 x trash bags
 x vinegar, white

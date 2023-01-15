@@ -30,6 +30,7 @@
 
 ## PHARMACY:
 
-## HARDWARE
+## HARDWARE:
 
 ## HOUSEHOLD:
+- sponges
