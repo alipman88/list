@@ -1,21 +1,25 @@
 ## FRESH VEG:
+- avocado
+- cilantro
+- leafy greens (collards, kale, swiss chard, etc.)
+- pepper
 
 ## FRIDGE:
-- eggs
 - kimchi
 - miso paste
 - tofu
-- tortillas
 
 ## FREEZER:
+- edamame
+- veg. protein (bacon, sausage, seitan, etc.)
 
 ## PANTRY VEG:
+- lemon
+- onion
 
 ## PANTRY:
-- adobe peppers, canned
-- beans, black, canned
-- olives, black
-- tomatoes, canned
+- oil, olive
+- pasta
 
 ## BREAD:
 - english muffins, multigrain

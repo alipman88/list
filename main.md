@@ -1,45 +1,45 @@
 ## FRESH VEG:
 -------------
-x avocado
+- avocado
 x cabbage
-x cilantro
+- cilantro
 x cucumber
-x leafy greens (collards, kale, swiss chard, etc.)
-x pepper
+- leafy greens (collards, kale, swiss chard, etc.)
+- pepper
 x scallions
 
 ## FRIDGE:
 ----------
 x cider vinegar
-- eggs
+x eggs
 x hummus
 - kimchi
 - miso paste
 x mustard
 x pickles
 - tofu
-- tortillas
+x tortillas
 
 ## FREEZER:
 -----------
-x edamame
+- edamame
 x ginger
 x peas
-x veg. protein (bacon, sausage, seitan, etc.)
+- veg. protein (bacon, sausage, seitan, etc.)
 
 ## PANTRY VEG:
 --------------
 x fruit (seasonal)
-x lemon
+- lemon
 x lime
-x onion
+- onion
 x garlic
 x potatoes
 
 ## PANTRY:
 ----------
-- adobe peppers, canned
-- beans, black, canned
+x adobe peppers, canned
+x beans, black, canned
 x calabrian chili paste
 x chili crisp
 x dashi powder
@@ -49,10 +49,10 @@ x maggi seasoning
 x nutritional yeast
 x nuts (almonds, cashews, pistachios, etc.)
 x oil, neutral (canola, peanut, sunflower, etc.)
-x oil, olive
+- oil, olive
 x oil, sesame
-- olives, black
-x pasta
+x olives, black
+- pasta
 x peanut butter
 x pepper, black
 x pepper, white
@@ -65,7 +65,7 @@ x sardines
 x sesame oil
 x sesame seeds
 x soy sauce
-- tomatoes, canned
+x tomatoes, canned
 x za'atar
 
 ## BREAD:
